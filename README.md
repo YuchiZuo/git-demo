@@ -1,5 +1,8 @@
 # 前置配置
 
+讲解录制地址：
+
+---
 ## Github使用 
 
 ### 环境配置和使用方法
@@ -10,17 +13,25 @@
 - [图形化地使用git：GitHub Desktop安装与使用](https://zhuanlan.zhihu.com/p/666417763)
 
 ### 项目地址
-我的[个人主页](https://github.com/YuchiZuo)，其中有git协作的示例。  
-其他工程不开源，注册好了账号把邮箱发给我，邀请你加入协作，就可以访问到项目了。
+我的[个人主页](https://github.com/YuchiZuo)，其中有[git协作的示例](https://github.com/YuchiZuo/git-demo)。  
+有些工程不开源，如果需要访问的话，注册好了账号把邮箱发给我，邀请你加入协作，就可以访问到项目了。
 
 ### 项目管理规范
-- 上传、更新示例
+- **克隆项目示例**
 
-- 写好commit的Summary和description
+- **同步、上传示例**
+
+- **分支示例**
+
+- **tips**
+写好commit的Summary和description  
+做好了更改及时上传，上传有问题也不要紧，可以在`history`中对更改`Revert`
+
+---
 
 ## VScode插件
-- git增强插件
+- git增强插件  
 [增强 Git 的最佳 VS Code 扩展](https://www.zhihu.com/tardis/zm/art/438758692?source_id=1005)
 
-- markdown渲染插件:用于阅读readme文件
+- markdown渲染插件:用于阅读readme文件  
 [在 VSCode 下用 Markdown Preview Enhanced 愉快地写文档](https://zhuanlan.zhihu.com/p/56699805)
