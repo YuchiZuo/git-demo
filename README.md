@@ -1,6 +1,6 @@
 # 前置配置
 
-讲解录制地址：
+讲解录制地址：https://meeting.tencent.com/cw/2GMnwn1l79
 
 ---
 ## Github使用 
